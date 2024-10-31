@@ -1,4 +1,4 @@
 # Projects
 
-projets from me..
+Projets from me..
 To track my progress...
